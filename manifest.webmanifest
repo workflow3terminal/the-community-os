@@ -1,0 +1,10 @@
+{
+  "name": "The Community OS",
+  "short_name": "Community",
+  "description": "Refuse the feed. Prove the will. ALPHA CCRS member OS.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060504",
+  "theme_color": "#060504",
+  "lang": "en"
+}
